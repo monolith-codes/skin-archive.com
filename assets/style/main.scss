@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+@font-face {
+  font-family: "LeagueSpartan";
+  src: url(./assets/fonts/LeagueSpartan.ttf) format("truetype");
+  font-display: swap;
+}
+
+body {
+  height: 100vh;
+  background-color: #212121;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background: #888;
+}
+
+:root {
+  --fs-xbg: 200px;
+  --fs-bg: clamp(0.5rem, 4vw + 0.5rem, 4rem);
+  --fs-bgs: clamp(0.5rem, 2vw + 0.5rem, 3rem);
+  --fs-md: clamp(0.5rem, 1.5vw + 0.5rem, 1.35rem);
+  --fs-sm: clamp(0.5rem, 1.5vw + 0.5rem, 1.35rem);
+  --fs-xsm: 200px;
+}
+
+h1 {
+  font-size: var(--fs-bg);
+}
+
+h2 {
+  font-size: var(--fs-md);
+}
+
+h3 {
+  font-size: var(--fs-sm);
+}
+
+h1,
+h2,
+h3 {
+  font-family: "LeagueSpartan" !important;
+}
+
+h1 {
+  letter-spacing: 0.5rem;
+}
