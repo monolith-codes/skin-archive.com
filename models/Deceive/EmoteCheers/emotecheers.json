@@ -1,0 +1,97 @@
+{
+  "emoteskinlist": {
+    "hans": {
+      "skins": ["es_id_03"]
+    },
+    "ace": {
+      "skins": ["es_id_10"]
+    },
+    "madame_xiu": {
+      "skins": []
+    },
+    "cavaliere": {
+      "skins": ["es_id_01"]
+    },
+    "red": {
+      "skins": []
+    },
+    "chavez": {
+      "skins": ["es_id_04"]
+    },
+    "squire": {
+      "skins": ["es_id_08", "es_id_09"]
+    },
+    "larcin": {
+      "skins": ["es_id_05"]
+    },
+    "yu-mi": {
+      "skins": ["es_id_06", "es_id_07"]
+    }
+  },
+  "emotes": {
+    "es_id_01": {
+      "name": "I'm Listening",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Cavaliere",
+      "variant": "false"
+    },
+
+    "es_id_03": {
+      "name": "Villianous Laugh",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Hans",
+      "variant": "false"
+    },
+    "es_id_04": {
+      "name": "Is it working?",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Chavez",
+      "variant": "false"
+    },
+    "es_id_05": {
+      "name": "The grand finale",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Larcin",
+      "variant": "false"
+    },
+    "es_id_06": {
+      "name": "Cheese!",
+      "price": "250",
+      "rarity": "Uncommon",
+      "char": "Yu-Mi",
+      "variant": "false"
+    },
+    "es_id_07": {
+      "name": "Nothing to see here",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Yu-Mi",
+      "variant": "false"
+    },
+    "es_id_08": {
+      "name": "Pro Juggler",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Squire",
+      "variant": "false"
+    },
+    "es_id_09": {
+      "name": "Unbreakable",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Squire",
+      "variant": "false"
+    },
+    "es_id_10": {
+      "name": "Daydreaming",
+      "price": "250",
+      "rarity": "Uncommon",
+      "char": "Ace",
+      "variant": "false"
+    }
+  }
+}

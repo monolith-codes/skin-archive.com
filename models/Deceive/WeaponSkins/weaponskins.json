@@ -1,0 +1,68 @@
+{
+  "ws_id_01": {
+    "name": "Stealth User - Kiss",
+    "price": 400,
+    "rarity": "Epic",
+    "variant": false
+  },
+  "ws_id_02": {
+    "name": "Camouflage",
+    "price": 250,
+    "rarity": "Rare",
+    "variant": true
+  },
+  "ws_id_03": {
+    "name": "Houndstooth (Citrus)",
+    "price": 100,
+    "rarity": "Uncommon",
+    "variant": false
+  },
+  "ws_id_04": {
+    "name": "Magma",
+    "price": 250,
+    "rarity": "Rare",
+    "variant": true
+  },
+  "ws_id_05": {
+    "name": "Oil Spill",
+    "price": 400,
+    "rarity": "Epic",
+    "variant": false
+  },
+  "ws_id_06": {
+    "name": "Tiger",
+    "price": 250,
+    "rarity": "Rare",
+    "variant": false
+  },
+  "ws_id_07": {
+    "name": "Crystalline",
+    "price": 400,
+    "rarity": "Epic",
+    "variant": true
+  },
+  "ws_id_08": {
+    "name": "Houndstooth (Gunmetal)",
+    "price": 100,
+    "rarity": "Uncommon",
+    "variant": true
+  },
+  "ws_id_09": {
+    "name": "Houndstooth (Midnight)",
+    "price": 100,
+    "rarity": "Uncommon",
+    "variant": true
+  },
+  "ws_id_10": {
+    "name": "Floral",
+    "price": 250,
+    "rarity": "Rare",
+    "variant": true
+  },
+  "ws_id_11": {
+    "name": "Stealth User - Requiem",
+    "price": 400,
+    "rarity": "Epic",
+    "variant": true
+  }
+}

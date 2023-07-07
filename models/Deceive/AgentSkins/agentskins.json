@@ -1,0 +1,131 @@
+{
+  "agentskinlist": {
+    "hans": {
+      "skins": ["sk_id_03"]
+    },
+    "ace": {
+      "skins": []
+    },
+    "madame_xiu": {
+      "skins": ["sk_id_05", "sk_id_06"]
+    },
+    "cavaliere": {
+      "skins": ["sk_id_02"]
+    },
+    "red": {
+      "skins": []
+    },
+    "chavez": {
+      "skins": ["sk_id_07", "sk_id_10"]
+    },
+    "squire": {
+      "skins": ["sk_id_13", "sk_id_14"]
+    },
+    "larcin": {
+      "skins": ["sk_id_09", "sk_id_12"]
+    },
+    "yu-mi": {
+      "skins": ["sk_id_08", "sk_id_11"]
+    }
+  },
+  "skinlist": {
+    "sk_id_01": {
+      "name": "Toxic Sludge",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Ace",
+      "variant": "false"
+    },
+    "sk_id_02": {
+      "name": "Tournament Arc",
+      "price": "1000",
+      "rarity": "Legendary",
+      "char": "Cavaliere",
+      "variant": "true"
+    },
+    "sk_id_03": {
+      "name": "Elite Forces",
+      "price": "1000",
+      "rarity": "Legendary",
+      "char": "Hans",
+      "variant": "false"
+    },
+    "sk_id_04": {
+      "name": "Plaid & Mirror",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Hans",
+      "variant": "false"
+    },
+    "sk_id_05": {
+      "name": "Calico",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Madame Xiu",
+      "variant": "false"
+    },
+    "sk_id_06": {
+      "name": "Self Care",
+      "price": "1000",
+      "rarity": "Legendary",
+      "char": "Madame Xiu",
+      "variant": "true"
+    },
+    "sk_id_07": {
+      "name": "Star Player",
+      "price": "1000",
+      "rarity": "Legendary",
+      "char": "Chavez",
+      "variant": "true"
+    },
+    "sk_id_08": {
+      "name": "Prowler",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Yu-Mi",
+      "variant": "true"
+    },
+    "sk_id_09": {
+      "name": "Arsene Larcin",
+      "price": "1000",
+      "rarity": "Legendary",
+      "char": "Larcin",
+      "variant": "true"
+    },
+    "sk_id_10": {
+      "name": "Opulence",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Chavez",
+      "variant": "true"
+    },
+    "sk_id_11": {
+      "name": "Mechanic",
+      "price": "1000",
+      "rarity": "Legendary",
+      "char": "Yu-Mi",
+      "variant": "true"
+    },
+    "sk_id_12": {
+      "name": "Bauhaus",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Larcin",
+      "variant": "true"
+    },
+    "sk_id_13": {
+      "name": "Part-Timer",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Squire",
+      "variant": "true"
+    },
+    "sk_id_14": {
+      "name": "Plum Plaid",
+      "price": "350",
+      "rarity": "Rare",
+      "char": "Squire",
+      "variant": "true"
+    }
+  }
+}
