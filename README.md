@@ -1,3 +1,5 @@
+<img height="240px" width="234px" src="https://i.ibb.co/FgDQm4g/ezgif-com-resize-3.webp"/>
+
 # SKIN-ARCHIVE.COM
 
 This is the official Nuxt3 SSR Webapp for skin-archive.com!
