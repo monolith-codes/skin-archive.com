@@ -1,8 +1,16 @@
-# Nuxt 3 Minimal Starter
+# SKIN-ARCHIVE.COM
+
+This is the official Nuxt3 SSR Webapp for skin-archive.com!
+
+We do not provide the fonts,webps,svgs because of copyright.
+
+Adjust the assets to your game.
+
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+### Setup
 
 Make sure to install the dependencies:
 
@@ -17,7 +25,7 @@ pnpm install
 yarn install
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on `http://localhost:3000`:
 
@@ -32,7 +40,7 @@ pnpm run dev
 yarn dev
 ```
 
-## Production
+### Production
 
 Build the application for production:
 
