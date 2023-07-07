@@ -184,10 +184,4 @@
   height: 50%;
   text-decoration: none;
 }
-
-@media only screen and (max-width: 500px) {
-  .home-page-info-wrapper {
-    width: 80%;
-  }
-}
 </style>
