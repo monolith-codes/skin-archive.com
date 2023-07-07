@@ -187,7 +187,7 @@
 
 @media only screen and (max-width: 500px) {
   .home-page-info-wrapper {
-    width: 80%;
+    width: 100%;
   }
 }
 </style>
