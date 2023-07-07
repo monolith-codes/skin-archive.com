@@ -4,7 +4,12 @@
 .nitro
 .cache
 dist
-assets/*
+assets/fonts
+assets/images
+assets/lottie
+assets/svg
+assets/svgs
+assets/*.svg
 
 # Node dependencies
 node_modules
