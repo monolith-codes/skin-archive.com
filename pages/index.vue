@@ -77,7 +77,7 @@
 .home-page-logo-wrapper {
   display: flex;
   justify-content: center;
-  height: 40%;
+  height: 25%;
   width: 100%;
 }
 
@@ -187,7 +187,8 @@
 
 @media only screen and (max-width: 500px) {
   .home-page-info-wrapper {
-    width: 100%;
+    width: 80%;
+    margin: auto;
   }
 }
 </style>
