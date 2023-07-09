@@ -1,4 +1,13 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+useHead({
+  meta: [
+    {
+      name: "description",
+      content: "The Skin Archive - for all your favourite games",
+    },
+  ],
+});
+</script>
 
 <template>
   <div class="home-page-wrapper">
