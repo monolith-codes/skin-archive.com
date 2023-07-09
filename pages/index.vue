@@ -22,7 +22,8 @@ useHead({
     {
       hid: "og:image",
       property: "og:image",
-      content: require("https://t3.ftcdn.net/jpg/01/42/62/84/360_F_142628436_BdXXMV34Xf665lwSRmBbAVICjFXh7vG9.jpg"),
+      content:
+        "https://t3.ftcdn.net/jpg/01/42/62/84/360_F_142628436_BdXXMV34Xf665lwSRmBbAVICjFXh7vG9.jpg",
     },
     { hid: "og-url", property: "og:url", content: "https://skin-archive.com/" },
     { hid: "t-type", name: "twitter:card", content: "summary_large_image" },
