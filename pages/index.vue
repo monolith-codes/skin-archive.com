@@ -1,10 +1,7 @@
 <script setup lang="ts">
 useHead({
+  title: "The Skin Archive - Home",
   meta: [
-    {
-      name: "title",
-      content: "The Skin Archive - Home",
-    },
     {
       name: "description",
       content:
