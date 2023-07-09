@@ -5,6 +5,11 @@ useHead({
       name: "description",
       content: "The Skin Archive - for all your favourite games",
     },
+    {
+      name: "keywords",
+      content:
+        "Skin, Archive, Deceive, Deceive Inc, All, Skins, Collection, Emotes, Animations, Weapon Skins, Player Skins",
+    },
   ],
 });
 </script>
