@@ -11,7 +11,7 @@
               height="200"
               width="200"
               class="deceive-page-logo-img"
-              src="~/assets/images/Deceive/logos/skin-archive-logo-big.png"
+              src="~/public/images/skin-archive-logo-big.webp"
             />
           </RouterLink>
         </div>
