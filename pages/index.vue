@@ -1,9 +1,11 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: "My Amazing Site",
-  ogTitle: "My Amazing Site",
-  description: "This is my amazing site, let me tell you all about it.",
-  ogDescription: "This is my amazing site, let me tell you all about it.",
+  title: "The Skin Archive - Home",
+  ogTitle: "The Skin Archive - Home",
+  description:
+    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+  ogDescription:
+    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
   ogImage: "https://skin-archive.com/images/skin-archive-logo-big.webp",
   twitterCard: "summary_large_image",
 });
