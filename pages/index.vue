@@ -15,7 +15,8 @@ useHead({
     {
       hid: "og:image",
       property: "og:image",
-      content: "../assets/images/Deceive/logos/skin-archive-logo-big.png",
+      content:
+        "https://t3.ftcdn.net/jpg/01/42/62/84/360_F_142628436_BdXXMV34Xf665lwSRmBbAVICjFXh7vG9.jpg",
     },
   ],
 });
