@@ -2,8 +2,13 @@
 useHead({
   meta: [
     {
+      name: "title",
+      content: "The Skin Archive - Home",
+    },
+    {
       name: "description",
-      content: "The Skin Archive - for all your favourite games",
+      content:
+        "The Skin Archive provides you a collection of all your favourite games! From Player/Weapon Skins to Emotes/Animations. Made from fans to fans with <3",
     },
     {
       name: "keywords",
