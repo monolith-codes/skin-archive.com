@@ -12,6 +12,11 @@ useHead({
       content:
         "Skin, Archive, Deceive, Deceive Inc, All, Skins, Collection, Emotes, Animations, Weapon Skins, Player Skins",
     },
+    {
+      hid: "og:image",
+      property: "og:image",
+      content: "../assets/images/Deceive/logos/skin-archive-logo-big.png",
+    },
   ],
 });
 </script>
