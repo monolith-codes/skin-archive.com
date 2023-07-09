@@ -12,12 +12,20 @@ useHead({
       content:
         "Skin, Archive, Deceive, Deceive Inc, All, Skins, Collection, Emotes, Animations, Weapon Skins, Player Skins",
     },
+    { hid: "og-type", property: "og:type", content: "website" },
+    { hid: "og-title", property: "og:title", content: "My Title" },
+    {
+      hid: "og-desc",
+      property: "og:description",
+      content: "This is a sweet post",
+    },
     {
       hid: "og:image",
       property: "og:image",
-      content:
-        "https://t3.ftcdn.net/jpg/01/42/62/84/360_F_142628436_BdXXMV34Xf665lwSRmBbAVICjFXh7vG9.jpg",
+      content: require("https://t3.ftcdn.net/jpg/01/42/62/84/360_F_142628436_BdXXMV34Xf665lwSRmBbAVICjFXh7vG9.jpg"),
     },
+    { hid: "og-url", property: "og:url", content: "https://skin-archive.com/" },
+    { hid: "t-type", name: "twitter:card", content: "summary_large_image" },
   ],
 });
 </script>
