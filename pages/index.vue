@@ -4,7 +4,7 @@ useSeoMeta({
   ogTitle: "My Amazing Site",
   description: "This is my amazing site, let me tell you all about it.",
   ogDescription: "This is my amazing site, let me tell you all about it.",
-  ogImage: "https://example.com/image.png",
+  ogImage: "https://skin-archive.com/skin-archive-logo-big.webp",
   twitterCard: "summary_large_image",
 });
 </script>
