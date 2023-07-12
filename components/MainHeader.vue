@@ -15,18 +15,6 @@
             />
           </RouterLink>
         </div>
-        <div class="deceive-header-seperator"></div>
-        <div class="deceive-header-logo">
-          <RouterLink class="home_routerlink" to="/deceive">
-            <img
-              alt="Deceive Logo"
-              height="200"
-              width="200"
-              class="deceive-page-logo-img"
-              src="~/assets/images/Deceive/logos/deceiveincsmalllogo.webp"
-            />
-          </RouterLink>
-        </div>
       </div>
     </div>
 

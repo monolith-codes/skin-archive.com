@@ -1,4 +1,8 @@
 <script setup lang="ts">
+definePageMeta({
+  layout: "default",
+});
+
 useSeoMeta({
   title: "The Skin Archive - Home",
   ogTitle: "The Skin Archive - Home",
@@ -75,7 +79,7 @@ useSeoMeta({
 
 .home-page-wrapper {
   width: 100%;
-  height: 100vh;
+  height: 100%;
 }
 
 .home-page {
@@ -88,7 +92,7 @@ useSeoMeta({
 .home-page-logo-wrapper {
   display: flex;
   justify-content: center;
-  height: 25%;
+  height: 35%;
   width: 100%;
 }
 
@@ -96,7 +100,7 @@ useSeoMeta({
   display: flex;
   flex-direction: column;
   align-items: center !important;
-  justify-content: center !important;
+  justify-content: flex-start !important;
   height: 60%;
   width: 100%;
 }
@@ -107,6 +111,7 @@ useSeoMeta({
   align-items: center;
   height: 30%;
   width: 100%;
+  position: relative;
 }
 
 .home-page-description-wrap {
@@ -184,8 +189,8 @@ useSeoMeta({
 
 .home-page-logo-img {
   position: relative;
-  width: 50%;
-  height: 50%;
+  width: 60%;
+  height: 60%;
   transition: ease-in-out;
   animation: logo1 6s ease-in-out infinite;
 }
@@ -200,6 +205,10 @@ useSeoMeta({
   .home-page-info-wrapper {
     width: 80%;
     margin: auto;
+  }
+
+  .home-page-logo-img {
+    top: 0%;
   }
 }
 </style>
