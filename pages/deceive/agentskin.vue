@@ -308,9 +308,8 @@ onMounted(() => {
 
 .deceive-skin-page-bonds {
   width: 15%;
-  height: 0%;
+  height: 100%;
   margin-bottom: 2.5% !important;
-  margin-left: 2%;
 }
 
 .deceive-skin-page-bigimg-navigator-wrapper {
