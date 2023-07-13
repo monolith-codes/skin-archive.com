@@ -9,4 +9,12 @@ export default defineNuxtConfig({
   alias: {
     "@": "/<rootDir>",
   },
+  modules: [
+    [
+      "@nuxtjs/google-adsense",
+      {
+        id: process.env.ADSENSE_ID,
+      },
+    ],
+  ],
 });
