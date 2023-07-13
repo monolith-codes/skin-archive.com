@@ -211,6 +211,17 @@
 definePageMeta({
   layout: "plain",
 });
+
+useSeoMeta({
+  title: "The Skin Archive | Privacy",
+  ogTitle: "The Skin Archive | Privacy",
+  description:
+    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+  ogDescription:
+    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+  ogImage: "https://skin-archive.com/images/skin-archive-logo-card.webp",
+  twitterCard: "summary_large_image",
+});
 </script>
 
 <style scoped lang="scss">

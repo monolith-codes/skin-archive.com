@@ -7,6 +7,17 @@ definePageMeta({
   layout: "deceive",
 });
 
+useSeoMeta({
+  title: "SA | Deceive | Agentskin",
+  ogTitle: "SA | Deceive | Agentskin",
+  description:
+    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+  ogDescription:
+    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+  ogImage: "https://skin-archive.com/images/skin-archive-logo-card.webp",
+  twitterCard: "summary_large_image",
+});
+
 const selectedSkin: Ref<string> = ref("");
 const skindata: Ref<IAgentSkinsInterface> = ref({
   name: "",
