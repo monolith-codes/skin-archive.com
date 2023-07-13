@@ -7,9 +7,9 @@ useSeoMeta({
   title: "The Skin Archive | Deceive",
   ogTitle: "The Skin Archive | Deceive",
   description:
-    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+    "Skin Archive collects and sorts all comsmetics from the stores of your favorite games! Our service is from fans for fans.",
   ogDescription:
-    "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
+    "Skin Archive collects and sorts all comsmetics from the stores of your favorite games! Our service is from fans for fans.",
   ogImage:
     "https://skin-archive.com/images/skin-archive-deceive-logo-card.webp",
   twitterCard: "summary_large_image",
