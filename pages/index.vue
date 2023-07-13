@@ -112,6 +112,7 @@ useSeoMeta({
   height: 30%;
   width: 100%;
   position: relative;
+  min-height: 5rem;
 }
 
 .home-page-description-wrap {

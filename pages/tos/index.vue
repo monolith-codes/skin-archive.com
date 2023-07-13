@@ -124,14 +124,11 @@ useSeoMeta({
   margin-right: auto;
   color: white;
   text-align: center;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
   box-shadow: 0px 5px 20px 5px rgb(12, 12, 12);
 }
 
 .tos-link {
   font-size: clamp(0.4rem, 0.4vw + 0.4rem, 0.8rem);
-  line-height: 1vw;
   color: #da9c2d;
   text-decoration: none;
 }
@@ -150,7 +147,7 @@ useSeoMeta({
 
   h4 {
     font-size: clamp(0.4rem, 0.4vw + 0.4rem, 0.8rem);
-    line-height: 1vw;
+    line-height: 1rem;
   }
 }
 .home-page-title-wrap {
@@ -160,10 +157,15 @@ useSeoMeta({
   height: 30%;
   width: 100%;
   position: relative;
-  top: 5%;
 }
 .home-page-title {
   color: white;
   text-align: center;
+}
+
+@media only screen and (max-width: 700px) {
+  .tos-content-wrap {
+    width: 80%;
+  }
 }
 </style>
