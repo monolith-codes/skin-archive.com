@@ -5,7 +5,9 @@
     </div>
 
     <div class="deceive-skin-list-header-agentname-wrapper">
-      <h2 class="deceive-skin-list-header-agentname">All</h2>
+      <h2 class="deceive-skin-list-header-agentname">
+        {{ selectedAgent }}
+      </h2>
     </div>
   </div>
 

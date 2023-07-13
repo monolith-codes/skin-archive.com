@@ -4,13 +4,14 @@ definePageMeta({
 });
 
 useSeoMeta({
-  title: "The Skin Archive - Home",
-  ogTitle: "The Skin Archive - Home",
+  title: "The Skin Archive - Deceive",
+  ogTitle: "The Skin Archive - Deceive",
   description:
     "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
   ogDescription:
     "Skin Archive collect and sort all the comsmetics from the shops of your favourite games! Our service is from fans to fans.",
-  ogImage: "https://skin-archive.com/images/skin-archive-logo-card.webp",
+  ogImage:
+    "https://skin-archive.com/images/skin-archive-deceive-logo-card.webp",
   twitterCard: "summary_large_image",
 });
 </script>
