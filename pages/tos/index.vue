@@ -167,5 +167,9 @@ useSeoMeta({
   .tos-content-wrap {
     width: 80%;
   }
+
+  .home-page-title-wrap {
+    height: 20%;
+  }
 }
 </style>
